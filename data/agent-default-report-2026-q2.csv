@@ -1,0 +1,7 @@
+category,agent_default,top_pick_share_pct,n,quarter,basis
+backend_baas,Supabase,95,162,2026-Q2,directional-controlled-runs
+feature_flags,LaunchDarkly,58,144,2026-Q2,directional-controlled-runs
+transactional_email,Resend,54,162,2026-Q2,directional-controlled-runs
+auth,Clerk,51,243,2026-Q2,directional-controlled-runs
+hosting,Vercel,49,243,2026-Q2,directional-controlled-runs
+voice_ai,Vapi,44,243,2026-Q2,directional-controlled-runs
