@@ -7,8 +7,9 @@ The Agent Default Report is AgentRank's public aggregate: what AI coding agents 
 Codex) actually do when a developer says "add auth" or "send a welcome email" — measured from
 real agent sessions in real repos, split by model.
 
-> All figures below come from controlled runs and carry a sample size (n) and a 95% Wilson
-> confidence interval. Below n=30 a figure is never reported. **Not a published, citable
+> All category-share and model-comparison figures below carry a sample size (n) and a 95%
+> Wilson confidence interval. Other exploratory findings are labeled separately. Below n=30 a
+> figure is never reported. **Not a published, citable
 > benchmark number** — see the methodology for why.
 >
 > **Publication policy:** public releases identify category leaders and aggregate behavior.
@@ -65,9 +66,9 @@ raw Nodemailer/SMTP in 42% of email answers, self-hosting in 19% of hosting answ
 Retention is rarely the leak — the fight is being named, installed, and through the first build.
 
 And the first build is measurably fixable: in a controlled intervention study (three arms run in
-the same window: no doc, generic doc, tailored doc), a tailored in-repo fix doc took build
-success took a transactional-email vendor's build success from **57% to 100%**, and took a second from failing most agent
-builds to **96%** (Sonnet).
+the same window: no doc, generic doc, tailored doc), a tailored in-repository document increased
+one transactional-email vendor's build success from **57% to 100%**, and took a second email
+vendor from failing most agent builds to **96%** (Sonnet).
 
 ## Method, in one paragraph
 
