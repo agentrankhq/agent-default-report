@@ -23,14 +23,14 @@ Data through 2026 Q2 · last updated July 2026.
 Ask hundreds of times, in different words, and one name keeps winning the pick. Some leads are
 runaway (Supabase), others top a fragmented field (Clerk).
 
-| Category | Agent default | Top-pick share | n |
-|---|---|---|---|
-| Backend / BaaS | Supabase | 96% | 162 |
-| Feature flags | LaunchDarkly | 49% | 144 |
-| Transactional email | Resend | 52% | 162 |
-| Auth | Clerk | 35% | 243 |
-| Hosting | Vercel | 47% | 243 |
-| Voice AI | Vapi | 43% | 243 |
+| Category | Agent default | Top-pick share | n | 95% CI |
+|---|---|---|---|---|
+| Backend / BaaS | Supabase | 96% | 162 | 92-98 |
+| Feature flags | LaunchDarkly | 49% | 144 | 41-57 |
+| Transactional email | Resend | 52% | 162 | 44-59 |
+| Auth | Clerk | 35% | 243 | 29-41 |
+| Hosting | Vercel | 47% | 243 | 40-53 |
+| Voice AI | Vapi | 43% | 243 | 37-49 |
 
 ## 2. Being named is not being picked
 
@@ -66,7 +66,7 @@ Retention is rarely the leak — the fight is being named, installed, and throug
 
 And the first build is measurably fixable: in a controlled intervention study (three arms run in
 the same window: no doc, generic doc, tailored doc), a tailored in-repo fix doc took build
-success from **57% to 100%** on Resend, and took a second email vendor from failing most agent
+success took a transactional-email vendor's build success from **57% to 100%**, and took a second from failing most agent
 builds to **96%** (Sonnet).
 
 ## Method, in one paragraph

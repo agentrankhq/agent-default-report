@@ -1,7 +1,7 @@
-category,agent_default,top_pick_share_pct,n,quarter,basis
-backend_baas,Supabase,96,162,2026-Q2,directional-controlled-runs
-feature_flags,LaunchDarkly,49,144,2026-Q2,directional-controlled-runs
-transactional_email,Resend,52,162,2026-Q2,directional-controlled-runs
-auth,Clerk,35,243,2026-Q2,directional-controlled-runs
-hosting,Vercel,47,243,2026-Q2,directional-controlled-runs
-voice_ai,Vapi,43,243,2026-Q2,directional-controlled-runs
+category,agent_default,successes,n,share_pct,ci_low_pct,ci_high_pct,release_id,protocol_version,quarter,basis,generated_at
+backend_baas,Supabase,156,162,96,92.2,98.3,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
+feature_flags,LaunchDarkly,71,144,49,41.3,57.4,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
+transactional_email,Resend,84,162,52,44.2,59.4,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
+auth,Clerk,85,243,35,29.3,41.2,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
+hosting,Vercel,113,243,47,40.3,52.8,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
+voice_ai,Vapi,104,243,43,36.7,49.1,2026-q2-v1.1,pre-citable-exploratory,2026-Q2,exploratory-release,2026-07-10
