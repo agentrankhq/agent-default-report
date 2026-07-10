@@ -73,3 +73,13 @@ A classifier written before the runs scores every outcome. Full method: https://
 - Methodology: https://agentrankhq.com/methodology
 - About AgentRank: https://agentrankhq.com/about
 - Contact: hello@agentrankhq.com
+
+## Correction — 2026-07-10
+
+The Q2 CSV previously carried figures from an earlier primary-pick attribution
+(e.g. Clerk 51, LaunchDarkly 58). The attribution was corrected on 2026-06-19
+and the site's report re-cut on 2026-07-08 (see the dated correction note on
+agentrankhq.com/report); this dataset was missed in that re-derivation and has
+now been regenerated from the same canonical source. Category winners are
+unchanged; shares moved. The CSV is now machine-generated, never hand-edited,
+and checked against the canonical snapshot before every release.
