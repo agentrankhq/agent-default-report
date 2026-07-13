@@ -4,4 +4,4 @@ AgentRank preregisters controlled experiments before launch: the full design is 
 
 | Registered (UTC) | Study | sha256 of the preregistration |
 |---|---|---|
-| 2026-07-13 | improve-ab-3 (two-arm co-temporal intervention study, transactional email) | `2519d94722e09a2eee21ed855ac96b9fd3258c399d9d26a9ad35634603a89ea7` |
+| 2026-07-13 | improve-ab-3 (two-arm co-temporal intervention study, transactional email) | `2519d94722e09a2eee21ed855ac96b9fd3258c399d9d26a9ad35634603a89ea7` — results published same day ([card](https://agentrankhq.com/experiments/email-fix)); [redacted plan](preregistrations/improve-ab-3.REDACTED.md); unredacted original reveals on vendor consent |
