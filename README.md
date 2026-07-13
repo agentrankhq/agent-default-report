@@ -65,10 +65,11 @@ raw Nodemailer/SMTP in 42% of email answers, self-hosting in 19% of hosting answ
 **90%** of installed, compiling integrations survived a "modernize this" refactor (n=707).
 Retention is rarely the leak — the fight is being named, installed, and through the first build.
 
-And the first build is measurably fixable: in a controlled intervention study (three arms run in
-the same window: no doc, generic doc, tailored doc), a tailored in-repository document increased
-one transactional-email vendor's build success from **57% to 100%**, and took a second email
-vendor from failing most agent builds to **96%** (Sonnet).
+And the first build is measurably fixable: in a controlled intervention study on
+transactional-email tasks (three arms run in the same window: no doc, generic doc, tailored
+doc), the share of agent builds that compiled went from **57% to 100%** (Sonnet), and a
+tailored document took a second email vendor from failing most agent builds to **96%**
+(Sonnet). Full design and every n: https://agentrankhq.com/experiments/email-fix
 
 ## Method, in one paragraph
 
